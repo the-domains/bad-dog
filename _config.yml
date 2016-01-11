@@ -1,7 +1,7 @@
 name: Bad Dog
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.39688
+typography_spectrum: 0.56229
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#293935'
+    - '#9b3334'
+    - '#765751'
+    - '#c9b78f'
+    - '#a99d7d'
   brandStrength: 0.6249976095277816
   lightness: 0.3125
   saturation: 0.1875
