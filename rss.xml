@@ -4,8 +4,15 @@
         <description><![CDATA[Bad Dog]]></description>
         <link>https://thegrid.ai/bad-dog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 17:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 17:17:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bad-dog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[If I was a rockstar]]></title>
+            <description><![CDATA[<article><h1>If I was a rockstar</h1><p>more stuff I'm unsure of</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be1e38befbc66543373c7d3888efd7f37c46fc56.gif"></article>]]></description>
+            <link>https://thegrid.ai/bad-dog/if-i-was-a-rockstar/index.html</link>
+            <guid isPermaLink="false">3bd367c1-423a-4a51-a89c-90653692ee0e</guid>
+            <pubDate>Mon, 11 Jan 2016 17:17:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5a7cbe5-cf77-4dda-bb90-4e1804c7b09e.gif">]]></description>
